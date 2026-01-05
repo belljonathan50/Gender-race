@@ -1,0 +1,757 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.28)  29 DEC 2025 15:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"c:/Users/HUIWEI/Documents/latex/Gender__Race_and_Power_in_Music__From_Stage_to_Society__SOC_HIS_/bourdieu bilingue.tex"
+(c:/Users/HUIWEI/Documents/latex/Gender__Race_and_Power_in_Music__From_Stage_to_Society__SOC_HIS_/bourdieu bilingue.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty
+Package: paracol 2025/07/14 1.37 typeset columns in parallel
+\pcol@currcol=\count199
+\pcol@nextcol=\count266
+\pcol@ncol=\count267
+\pcol@ncolleft=\count268
+\pcol@page=\count269
+\pcol@basepage=\count270
+\pcol@toppage=\count271
+\pcol@footnotebase=\count272
+\pcol@nfootnotes=\count273
+\pcol@mcid=\count274
+\pcol@prevdepth=\dimen149
+\pcol@colht=\dimen150
+\pcol@textfloatsep=\dimen151
+\pcol@lrmargin=\dimen152
+\pagerim=\dimen153
+\pcol@topskip=\skip50
+\belowfootnoteskip=\skip51
+\pcol@topfnotes=\box51
+\pcol@prespan=\box52
+\pcol@rightpage=\box53
+\pcol@colorstack@saved=\box54
+\pcol@tempboxa=\box55
+\pcol@tempboxb=\box56
+\pcol@colorins=\insert252
+\pcol@everyvbox=\toks19
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count275
+\U@D=\dimen154
+\l@unhyphenated=\language79
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count276
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
+Language: french 2025-08-15 v4.0e French support from the babel system
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.ldf
+Language: french 2025-08-15 v3.7e French support from the babel system
+\FB@stdchar=\count277
+Package babel Info: Making : an active character on input line 273.
+Package babel Info: Making ; an active character on input line 274.
+Package babel Info: Making ! an active character on input line 275.
+Package babel Info: Making ? an active character on input line 276.
+\FBguill@level=\count278
+\FBold@everypar=\toks22
+\FB@Mht=\dimen155
+\mc@charclass=\count279
+\mc@charfam=\count280
+\mc@charslot=\count281
+\std@mcc=\count282
+\dec@mcc=\count283
+\FB@pardim=\dimen156
+\listindentFB=\dimen157
+\descindentFB=\dimen158
+\labelindentFB=\dimen159
+\labelwidthFB=\dimen160
+\leftmarginFB=\dimen161
+\parindentFFN=\dimen162
+\FBfnindent=\dimen163
+))) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count284
+)
+\csq@reset=\count285
+\csq@gtype=\count286
+\csq@glevel=\count287
+\csq@qlevel=\count288
+\csq@maxlvl=\count289
+\csq@tshold=\count290
+\csq@ltx@everypar=\toks23
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'french'.
+ (C:\Users\HUIWEI\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
+\l__pdf_internal_box=\box57
+) (bourdieu bilingue.aux)
+\openout1 = `"bourdieu bilingue.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-18.78552pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \degres on input line 20.
+
+Overfull \hbox (0.84761pt too wide) in paragraph at lines 31--32
+\T1/cmr/m/n/12 There ought to be laws to pro-
+ []
+
+
+Overfull \hbox (11.87675pt too wide) in paragraph at lines 31--32
+\T1/cmr/m/n/12 tect the body of ac-quired knowl-
+ []
+
+
+Overfull \hbox (20.92632pt too wide) in paragraph at lines 31--32
+\T1/cmr/m/n/12 in-tel-lec-tual stock in trade; doesn't
+ []
+
+
+Overfull \hbox (10.62381pt too wide) in paragraph at lines 31--32
+\T1/cmr/m/n/12 house, or money? Paul Claudel,
+ []
+
+
+Overfull \hbox (1.55164pt too wide) in paragraph at lines 35--37
+[]\T1/cmr/m/n/12 There is an econ-omy of cul-tural goods,
+ []
+
+
+Overfull \hbox (4.87996pt too wide) in paragraph at lines 45--46
+\T1/cmr/m/n/12 of na-ture, sci-en-tific ob-ser-va-tion shows that
+ []
+
+
+Overfull \hbox (0.50752pt too wide) in paragraph at lines 45--46
+\T1/cmr/m/n/12 cul-tural needs are the prod-uct of up-bring-
+ []
+
+
+Overfull \hbox (19.89009pt too wide) in paragraph at lines 45--46
+\T1/cmr/m/n/12 all cul-tural prac-tices (mu-seum vis-its, concert-
+ []
+
+
+Overfull \hbox (9.90524pt too wide) in paragraph at lines 48--49
+[]\T1/cmr/m/n/12 The rel-a-tive weight of home back-ground
+ []
+
+
+Overfull \hbox (7.62091pt too wide) in paragraph at lines 48--49
+\T1/cmr/m/n/12 be-ing equal-in 'extra-curricular' and avant-
+ []
+
+
+Overfull \hbox (6.96419pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 pre-dis-poses 2 / In-tro-duc-tion tastes to func-
+ []
+
+
+Overfull \hbox (6.83784pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 ed-u-ca-tional system-and its pedi-grees, mea-
+ []
+
+
+Overfull \hbox (20.54282pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 arly knowl-edge and in-ter-pre-ta-tion as 'scholas-
+ []
+
+
+Overfull \hbox (10.42723pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 the 'pro-grammes' im-posed a pri-ori by schol-
+ []
+
+
+Overfull \hbox (0.24646pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 re-liant on writ-ers and their work of 'show-
+ []
+
+
+Overfull \hbox (2.98744pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 ject', the ex-ter-nal ref er-ent, which in-volves
+ []
+
+
+Overfull \hbox (2.9221pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 con-ven-tions (as re-gards scenery, plot etc.),
+ []
+
+
+Overfull \hbox (8.3334pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 iden-ti-fy-ing with the char-ac-ters (I am think-
+ []
+
+
+Overfull \hbox (2.0237pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 son which de-fines the Good, working-class
+ []
+
+
+Overfull \hbox (2.13899pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 presents the aes-thetic dis-po-si-tion as a uni-
+ []
+
+
+Overfull \hbox (6.77254pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 ver-sally valid prin ciple and takes the bour-
+ []
+
+
+Overfull \hbox (0.96423pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 geois de-nial of the so-cial world to its limit.
+ []
+
+
+Overfull \hbox (9.83986pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 pop-u-lar dis-po-si-tion which an-nexes aes thet-
+ []
+
+
+Overfull \hbox (1.81265pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 up with the sys-tems of dis-posi tions (habi-
+ []
+
+
+Overfull \hbox (0.37701pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 make, be-tween the beau-ti-ful and the ugly,
+ []
+
+
+Overfull \hbox (1.48637pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 the dis-tin-guished and the vul-gar, in which
+ []
+
+
+Overfull \hbox (0.50739pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 quan-tity and qual-ity, sub-stance and form,
+ []
+
+
+Overfull \hbox (7.22946pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 dif-fer-ent dis-tances from neces sity--between
+ []
+
+
+Overfull \hbox (4.3579pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 sump-tion be-gins with a trans gres-sion that
+ []
+
+
+Overfull \hbox (0.37688pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 'choices', such as pref-er-ences in mu-sic and
+ []
+
+
+Overfull \hbox (1.61688pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 of or-di-nary con-sump-tion abol-ishes the op-
+ []
+
+
+Overfull \hbox (7.22942pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 is pre-dis-posed to be-come a sym-bol of moral
+ []
+
+
+Overfull \hbox (19.6944pt too wide) in paragraph at lines 52--54
+\T1/cmr/m/n/12 the ob-jects, per-sons and sit-u-a-tions it touches,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (16.83665pt too wide) in paragraph at lines 62--63
+\T1/cmr/m/n/12 qu'il ne lui ap-par-tient pas comme
+ []
+
+[1
+
+
+{C:/Users/HUIWEI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (7.94742pt too wide) in paragraph at lines 73--74
+\T1/cmr/m/n/12 laire (dont l'ef-fi-ca-cité et la du-rée dé-pendent
+ []
+
+
+Overfull \hbox (3.96635pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 (comme les ^^Spé-dants^^T et les ^^Smon-dains^^T).
+ []
+
+
+Overfull \hbox (9.51367pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 groupes sé-pa-rés dans leur idée de la culture,
+ []
+
+
+Overfull \hbox (15.77876pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 mode d'ap-pro-pria-tion légiti- me de la culture
+ []
+
+
+Overfull \hbox (6.7075pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 chée de cette forme élé-men-taire de connais-
+ []
+
+
+Overfull \hbox (17.60602pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 prié-tés sen-sibles^^T, sai-sis-sant une peau comme
+ []
+
+
+Overfull \hbox (6.05481pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 ve-lou-tée ou une den-telle comme va-po-reuse,
+ []
+
+
+Overfull \hbox (3.44426pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 fre-ment, de dé-co-dage, qui im-plique la mise
+ []
+
+
+Overfull \hbox (20.02077pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 l'expé- rience des ama-teurs les plus conformes
+ []
+
+
+Overfull \hbox (5.01059pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 elles-mêmes et pour elles-mêmes, dans leur
+ []
+
+
+Overfull \hbox (3.18329pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 forme et non dans leur fonc-tion, non seule-
+ []
+
+
+Overfull \hbox (5.27156pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 ap-pré-hen-sion, c'est-à-dire les oeuvres d'art
+ []
+
+
+Overfull \hbox (5.7284pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 lé-gi-times, mais toutes les choses du monde,
+ []
+
+
+Overfull \hbox (1.74745pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 dire ca-pable d'im-po-ser ses propres normes
+ []
+
+
+Overfull \hbox (12.05879pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 tant dans la pro-duc-tion que dans la consom-
+ []
+
+
+Overfull \hbox (6.5989pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 liques, L'An-née so-cio-lo-gique, Vol. 22, 1971,
+ []
+
+
+Overfull \hbox (3.8359pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 se veut au-to-nome, c'est-à-dire en-tiè-re-ment
+ []
+
+
+Overfull \hbox (14.86508pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 fé-ren-tielle, re-la-tion-nelle, at-ten-tive aux écarts
+ []
+
+
+Overfull \hbox (6.05475pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 élé-ments pro-po-sés au re-gard, tous les traits
+ []
+
+
+Overfull \hbox (5.20197pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 l'uni-vers des pos-si-bi-li-tés sub-sti-tuables. Ac-
+ []
+
+
+Overfull \hbox (5.85896pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 ce-lui qui per-met de re-con-naître, sans règles
+ []
+
+
+Overfull \hbox (1.15996pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 ni cri-tères ex-pli-cites, des vi-sages fa-mi-liers,
+ []
+
+
+Overfull \hbox (3.69977pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 tro-duc-tion V styles, c'est-à-dire des modes
+ []
+
+
+Overfull \hbox (8.86089pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 d'ex-pres-sion ca-rac-té-ris-tiques d'une époque,
+ []
+
+
+Overfull \hbox (21.5217pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 les pro-prié-tés sty-lis-tiques des oeuvres-témoins
+ []
+
+
+Overfull \hbox (10.03566pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 sur les-quelles s'ap-puient tous les ju-ge-ments,
+ []
+
+
+Overfull \hbox (16.49661pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 main^^T, c'est-à-dire gé-né-rique, com-mun ^^Vpar
+ []
+
+
+Overfull \hbox (20.6081pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 ce qu'elle est, c'est-à-dire au-to-nome, selbstän-
+ []
+
+
+Overfull \hbox (0.50748pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 dig, l'^^Sesthétique^^T po-pu-laire ignore ou re-
+ []
+
+
+Overfull \hbox (5.92426pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 les re-cherches for-melles et, comme le disent
+ []
+
+
+Overfull \hbox (4.16223pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 ou la pho-to-gra-phie, elle se pré-sente comme
+ []
+
+
+Overfull \hbox (12.25468pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 qua-lité pro-pre-ment es-thé-tique de la contem-
+ []
+
+
+Overfull \hbox (5.46738pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 image qu'elle rem-plisse explicite- ment une
+ []
+
+
+Overfull \hbox (0.57274pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 fonc-tion, fût-ce celle de signe, ma-ni-festent
+ []
+
+
+Overfull \hbox (14.11246pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 tou-jours éthique. En ap-pli-quant aux oeuvres
+ []
+
+
+Overfull \hbox (1.42108pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 lé-gi-times les schèmes de l'ethos, qui valent
+ []
+
+
+Overfull \hbox (0.70319pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 pour les cir-cons-tances or-di-naires de la vie,
+ []
+
+
+Overfull \hbox (7.88199pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 aux fic-tions ou au réa-li-tés qu'elles si-mulent,
+ []
+
+
+Overfull \hbox (5.27148pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 tinguent par les dis-tinc-tions qu'ils opèrent,
+ []
+
+
+Overfull \hbox (10.81888pt too wide) in paragraph at lines 76--83
+\T1/cmr/m/n/12 prou-ver, en-core que l'in-ser-tion de tels gestes
+ []
+
+
+Underfull \vbox (badness 3449) has occurred while \output is active []
+
+
+Underfull \vbox (badness 3449) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13] [14] [15] (bourdieu bilingue.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4895 strings out of 474485
+ 85534 string characters out of 5743261
+ 1991542 words of memory out of 5000000
+ 27174 multiletter control sequences out of 15000+600000
+ 561498 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,5n,65p,16861b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\HUIWEI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\HUIWEI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
+Output written on "bourdieu bilingue.pdf" (15 pages, 80186 bytes).
+PDF statistics:
+ 164 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

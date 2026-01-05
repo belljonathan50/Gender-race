@@ -1,0 +1,11 @@
+\contentsline {chapter}{\numberline {1}Gender, Race, and Power in Music: From Stage to Society - Ted Huffman}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Gender, Race, and Power in Music: From Stage to Society - to Andrew}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Gender, Race, and Power in Music: From Stage to Society}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Gender and Power in Music: From Stage to Society}{4}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Cultural Voices: Gender and Storytelling in Music and Media}{5}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Music, Identity, and the Politics of Performance}{6}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Staging Power: A History of Political Expression in Music and Theatre}{7}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Gender and Power in Music: From Stage to Society}{8}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Gender and Power in Music: From Stage to Society II}{9}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Opera and Beyond: Gender, Performance, and Power}{10}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Elements of reading list}{11}{chapter.11}%
